@@ -1,4 +1,4 @@
-FROM ubuntu:mantic-20240530
+FROM ubuntu:noble-20241009
 
 LABEL maintainer="Kirill Plotnikov <init@pltnk.dev>" \
       github="https://github.com/pltnk/docker-icecast2"
